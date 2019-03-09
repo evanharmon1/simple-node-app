@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://evanharmon1@github.com/evanharmon1/simple-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanharmon1/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/evanharmon1/simple-node-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
